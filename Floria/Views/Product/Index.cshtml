@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Fiorella.Models.Product>
+
+<h1>Products</h1>
+<a href="/Product/Create" class="btn btn-primary">Create New Product</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+                <td>@product.Description</td>
+                <td>
+                    <a href="/Product/Edit/@product.Id" class="btn btn-warning">Edit</a>
+                    <a href="/Product/Delete/@product.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

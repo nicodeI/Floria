@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Floria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\floria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\floria.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|c:\\users\\ii novbe\\source\\repos\\floria\\floria\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB59B2AF-61C6-42BF-896F-A7BECCAC3A8B}|Floria\\Floria.csproj|solutionrelative:floria\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Floria.csproj",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Floria.csproj",
+              "RelativeDocumentMoniker": "Floria\\Floria.csproj",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Floria.csproj",
+              "RelativeToolTip": "Floria\\Floria.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T08:10:18.151Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Floria\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Floria\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:48:45.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Floria\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Floria\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:47:41.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Floria\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Floria\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:45:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\appsettings.json",
+              "RelativeDocumentMoniker": "Floria\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\appsettings.json",
+              "RelativeToolTip": "Floria\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T08:29:20.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Floria\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Floria\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:29:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Floria\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Floria\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:16:18.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Floria\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Floria\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T08:15:59.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Floria\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Models\\Product.cs",
+              "RelativeToolTip": "Floria\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:15:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Program.cs",
+              "RelativeDocumentMoniker": "Floria\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Floria\\Floria\\Program.cs",
+              "RelativeToolTip": "Floria\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:07:25.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
